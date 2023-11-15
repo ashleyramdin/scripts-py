@@ -1,0 +1,8 @@
+*.py[cod]
+confidential_*
+env
+venv
+/venv
+.idea
+.idea/*
+.env
